@@ -6,7 +6,7 @@ This repository contains the algorithmic frameworks developed to validate human 
 The project reconciles material science benchmarks with digital sustainability through two primary computational tools:
 1. CCF Logic and Sustainability Threshold Calculator
 2. CCF Sensitivity Analysis: Models the "Sustainability Ceiling" where algorithmic complexity negates physical CO2 savings.
-2. Swarm Intelligence Logistical Optimizer: A framework for decentralized urban waste collection using SI algorithms (Bat Algorithm, Fast Bacterial Swarming).
+3. Swarm Intelligence Logistical Optimizer: A framework for decentralized urban waste collection using SI algorithms (Bat Algorithm, Fast Bacterial Swarming).
 
 Algorithms Included
 
